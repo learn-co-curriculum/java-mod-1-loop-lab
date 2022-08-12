@@ -38,9 +38,6 @@ It should give you output like the following:
 
 ## Instructions
 
-Walk the student through any setup required to run the lesson (i.e.
-`npm install` and `npm start`).
-
 Use what you've learned in the previous units to:
 
 1. Make sure the case that outputs "0 year(s)" doesn't run anymore - hint: it
